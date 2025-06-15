@@ -1,11 +1,11 @@
 # BMS
  power delivery system PCB with lithium-ion BMS (52.48mm x 35.56mm)
 # Schematic:
-![battery_pack](https://github.com/user-attachments/assets/e7f07051-3283-4a9c-82f0-5f9d1e73bde5)
+![1EC76D11-7186-4BDF-BA47-F075A30F112A_1_201_a](https://github.com/user-attachments/assets/f9398d59-e657-400c-9663-db1b2a7670ac)
 # Layout: 
 Front:
-![AE08CE55-796D-4500-82E2-46B4AB1E4043_1_201_a](https://github.com/user-attachments/assets/6c0911ac-20b8-48ba-9897-8b5bcc8f31b6)  
+ ![7FAA2996-40CB-44EA-974F-5E06B8CE44A9_1_201_a](https://github.com/user-attachments/assets/827508eb-133e-4a6a-9dec-b51b1f97b22b)
 Back:  
-<img width="914" alt="Screenshot 2025-06-05 at 2 07 27 PM" src="https://github.com/user-attachments/assets/cba762b3-69eb-4ce9-9bea-f77041cf8360" />  
+![20D8D632-33D9-4DF9-932C-18CBE87E01B6_1_201_a](https://github.com/user-attachments/assets/473d21c1-fa84-402d-b7ba-e60def9593d3)
 (This is a work in progress, Layout is still being updated)
 
